@@ -1,2 +1,6 @@
 # hello-world
 My first action on GitHub...
+
+I'm a student from Germany, coding a lot lately. Just got into Web Design with Bootstrap.
+
+Previous I did some work for the University in C and Java. maybe i will out my latest Arduino-project up here...
